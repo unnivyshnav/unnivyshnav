@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @unnivyshnav
-- 👀 I’m interested in Full stack web development 
-- 🌱 I’m currently learning MERN Stack development
+- 👀 I’m interested in Web technologies.. 
+- 🌱 I’m currently learning MERN Stack development..
 - 📫 Reach me @ https://www.linkedin.com/in/vyshnavku/
 
 <!---
