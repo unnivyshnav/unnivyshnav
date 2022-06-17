@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @unnivyshnav
-- 👀 I’m interested in Web technologies.. 
-- 🌱 I’m currently learning MERN Stack development..
+- 🏢 Working @ https://github.com/stackroots
+- 👷‍♂️ As Junior MERN Stack Developer
 - 📫 Reach me @ https://www.linkedin.com/in/vyshnavku/
 
 <!---
