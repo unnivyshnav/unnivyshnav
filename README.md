@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @unnivyshnav
 - 🏢 Working @ [StackRoots Technology Solutions](https://stackroots.in/)
-- 👷‍♂️ As Junior MERN Stack Developer
+- 👷‍♂️  MERN Stack Developer
 - 📫 Reach me @ https://www.linkedin.com/in/vyshnavku/
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=unnivyshnav&theme=radical&mode=weekly)](https://git.io/streak-stats)
